@@ -1,1 +1,1 @@
-text/info
+text/info \nadding text
